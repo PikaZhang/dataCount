@@ -1,0 +1,245 @@
+{
+    "products": [{
+            "uid": "com.luo.CashPocket1.13",
+            "title": "1.13"
+        },
+        {
+            "uid": "com.ignorantstar.huohuodai2.1",
+            "title": "App Store"
+        },
+        {
+            "uid": "com.luo.CashPocket1.0.2",
+            "title": ""
+        },
+        {
+            "uid": "com.luo.CashPocket1.6",
+            "title": ""
+        },
+        {
+            "uid": "com.luo.CashPocket1.5",
+            "title": ""
+        },
+        {
+            "uid": "com.luo.CashPocket1.11",
+            "title": ""
+        },
+        {
+            "uid": "com.luo.CashPocket1.7",
+            "title": ""
+        },
+        {
+            "uid": "com.ignorantstar.huohuodai1.7",
+            "title": ""
+        },
+        {
+            "uid": "com.luo.CashPocket1.9",
+            "title": ""
+        },
+        {
+            "uid": "com.ignorantstar.huohuodai1.9",
+            "title": ""
+        },
+        {
+            "uid": "com.luo.CashPocket1.8",
+            "title": ""
+        },
+        {
+            "uid": "com.luo.CashPocket1.12",
+            "title": "火火贷1.12"
+        },
+        {
+            "uid": "com.luo.CashPocket1.10",
+            "title": ""
+        },
+        {
+            "uid": "com.ignorantstar.huohuodai1.8",
+            "title": ""
+        }
+    ],
+    "channels": [{
+            "uid": "013",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "008",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "chuizi",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "099",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "sougouyingyong",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "vivo",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "aliyun",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "Lin",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "wandoujia",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "meizu",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "018",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "yingyongbao",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "360baohe",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "004",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "015",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "007",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "anzhi",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "keke",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "010",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "没有获取到渠道信息",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "002",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "005",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "003",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "001",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "baidu",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "AppStore",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "020",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "huaweizhihuiyun",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "012",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        },
+        {
+            "uid": "011",
+            "title": "",
+            "income_view": true,
+            "user_view": true
+        }
+    ],
+    "cps": [],
+    "user": {
+        "username": "zhangzhihao",
+        "id": 3
+    }
+}

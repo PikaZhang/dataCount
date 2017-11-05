@@ -1,0 +1,3538 @@
+[{
+        "com_luo_CashPocket1_13": {
+            "007": {
+                "user": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2,
+                "device": 2
+            },
+            "011": {
+                "loan_create": 3,
+                "device": 3,
+                "loan_submit": 2,
+                "ua": 10,
+                "da": 10,
+                "user": 4
+            },
+            "020": {
+                "loan_create": 3,
+                "device": 1,
+                "loan_submit": 4,
+                "ua": 4,
+                "da": 4,
+                "user": 1
+            },
+            "keke": {
+                "ua": 1,
+                "da": 1
+            },
+            "010": {
+                "loan_create": 7,
+                "device": 6,
+                "loan_submit": 7,
+                "ua": 9,
+                "da": 9,
+                "user": 6
+            },
+            "015": {
+                "da": 1
+            },
+            "012": {
+                "loan_create": 1,
+                "device": 2,
+                "loan_submit": 1,
+                "ua": 5,
+                "da": 6,
+                "user": 2
+            },
+            "018": {
+                "da": 2,
+                "device": 2
+            },
+            "003": {
+                "product_yingyongbao": {
+                    "13": 2
+                },
+                "loan_create": 1,
+                "product_apply": {
+                    "35": 1,
+                    "23": 1,
+                    "21": 1,
+                    "11": 1,
+                    "13": 1
+                },
+                "device": 1,
+                "loan_submit": 1,
+                "product_download": {
+                    "23": 1,
+                    "11": 1
+                },
+                "ua": 2,
+                "da": 2,
+                "user": 1
+            }
+        },
+        "_id": 22,
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 9,
+                "device": 1,
+                "loan_submit": 9,
+                "ua": 11,
+                "da": 11,
+                "user": 2
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "002": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "keke": {
+                "da": 1
+            },
+            "huaweizhihuiyun": {
+                "loan_create": 3,
+                "device": 3,
+                "loan_submit": 3,
+                "ua": 4,
+                "da": 5,
+                "user": 3
+            }
+        },
+        "com_luo_CashPocket1_8": {
+            "010": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_12": {
+            "015": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "012": {
+                "user": 1,
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            },
+            "011": {
+                "ua": 1,
+                "da": 1
+            },
+            "010": {
+                "ua": 2,
+                "da": 1,
+                "user": 1
+            },
+            "001": {
+                "loan_create": 5,
+                "device": 2,
+                "loan_submit": 5,
+                "ua": 4,
+                "da": 4,
+                "user": 2
+            },
+            "002": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "001": {
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_9": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_13": {
+            "007": {
+                "loan_submit": 1,
+                "ua": 2,
+                "da": 2
+            },
+            "011": {
+                "loan_create": 14,
+                "loan_cancel": 1,
+                "device": 10,
+                "loan_submit": 14,
+                "ua": 27,
+                "da": 30,
+                "user": 11
+            },
+            "020": {
+                "loan_create": 5,
+                "device": 4,
+                "loan_submit": 3,
+                "ua": 8,
+                "da": 8,
+                "user": 5
+            },
+            "003": {
+                "loan_create": 3,
+                "product_apply": {
+                    "19": 1,
+                    "26": 1
+                },
+                "device": 3,
+                "loan_submit": 3,
+                "product_download": {
+                    "26": 1
+                },
+                "ua": 7,
+                "da": 6,
+                "user": 4
+            },
+            "010": {
+                "loan_create": 10,
+                "loan_cancel": 1,
+                "device": 9,
+                "loan_submit": 12,
+                "ua": 17,
+                "da": 18,
+                "user": 9
+            },
+            "015": {
+                "da": 1
+            },
+            "001": {
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "012": {
+                "loan_create": 10,
+                "da": 14,
+                "device": 7,
+                "loan_submit": 10,
+                "ua": 11,
+                "loan_cancel": 1,
+                "user": 5
+            },
+            "004": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "anzhi": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 2,
+                "da": 2
+            }
+        },
+        "_id": 21,
+        "com_ignorantstar_huohuodai2_1": {
+            "AppStore": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 22,
+                "loan_cancel": 2,
+                "device": 9,
+                "loan_submit": 20,
+                "ua": 23,
+                "da": 28,
+                "user": 7
+            }
+        },
+        "com_luo_CashPocket1_6": {
+            "003": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "huaweizhihuiyun": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            }
+        },
+        "com_luo_CashPocket1_0_2": {
+            "yingyongbao": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            }
+        },
+        "com_luo_CashPocket1_9": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_luo_CashPocket1_12": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 3
+            },
+            "015": {
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "001": {
+                "loan_create": 8,
+                "device": 10,
+                "loan_submit": 7,
+                "ua": 15,
+                "da": 15,
+                "user": 10
+            },
+            "002": {
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "002": {
+                "ua": 1,
+                "da": 1
+            },
+            "020": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_0_3": {
+            "keke": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_13": {
+            "099": {
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            },
+            "007": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "012": {
+                "loan_create": 7,
+                "device": 8,
+                "loan_submit": 8,
+                "ua": 11,
+                "da": 11,
+                "user": 8
+            },
+            "020": {
+                "loan_create": 9,
+                "device": 11,
+                "loan_submit": 10,
+                "ua": 10,
+                "da": 15,
+                "user": 8
+            },
+            "010": {
+                "loan_create": 23,
+                "loan_cancel": 2,
+                "device": 24,
+                "loan_submit": 19,
+                "ua": 34,
+                "da": 36,
+                "user": 23
+            },
+            "015": {
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "001": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "002": {
+                "ua": 1,
+                "da": 1
+            },
+            "011": {
+                "loan_create": 16,
+                "device": 19,
+                "loan_submit": 15,
+                "ua": 30,
+                "da": 35,
+                "user": 17
+            },
+            "003": {
+                "loan_create": 5,
+                "loan_cancel": 1,
+                "device": 3,
+                "loan_submit": 1,
+                "ua": 4,
+                "da": 4,
+                "user": 3
+            }
+        },
+        "_id": 20,
+        "com_ignorantstar_huohuodai1_7": {
+            "AppStore": {
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 21,
+                "loan_cancel": 1,
+                "device": 17,
+                "loan_submit": 19,
+                "ua": 29,
+                "da": 29,
+                "user": 17
+            }
+        },
+        "com_luo_CashPocket1_11": {
+            "002": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "010": {
+                "ua": 1,
+                "da": 1
+            },
+            "002": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "012": {
+                "da": 1
+            },
+            "011": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "yingyongbao": {
+                "loan_submit": 1,
+                "loan_create": 1
+            },
+            "huaweizhihuiyun": {
+                "loan_create": 2,
+                "device": 3,
+                "loan_submit": 2,
+                "ua": 3,
+                "da": 4,
+                "user": 3
+            }
+        },
+        "com_luo_CashPocket1_0_2": {
+            "yingyongbao": {
+                "loan_create": 1,
+                "device": 3,
+                "loan_submit": 1,
+                "ua": 3,
+                "da": 3,
+                "user": 3
+            }
+        },
+        "com_luo_CashPocket1_12": {
+            "yingyongbao": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2
+            },
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "020": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 2,
+                "da": 2
+            },
+            "011": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "010": {
+                "da": 2,
+                "device": 1
+            },
+            "001": {
+                "loan_create": 10,
+                "device": 12,
+                "loan_submit": 11,
+                "ua": 15,
+                "da": 15,
+                "user": 13
+            },
+            "002": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 3,
+                "device": 2
+            },
+            "015": {
+                "loan_create": 5,
+                "loan_cancel": 2,
+                "device": 5,
+                "loan_submit": 5,
+                "ua": 4,
+                "da": 5,
+                "user": 4
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "020": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_9": {
+            "010": {
+                "da": 1,
+                "device": 1
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_4": {
+            "keke": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_luo_CashPocket1_13": {
+            "012": {
+                "loan_create": 9,
+                "loan_cancel": 1,
+                "device": 13,
+                "loan_submit": 4,
+                "ua": 20,
+                "da": 22,
+                "user": 11
+            },
+            "010": {
+                "loan_create": 9,
+                "loan_cancel": 5,
+                "device": 12,
+                "loan_submit": 1,
+                "ua": 16,
+                "da": 22,
+                "user": 8
+            },
+            "002": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 2,
+                "da": 2
+            },
+            "keke": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 2,
+                "da": 2
+            },
+            "003": {
+                "loan_create": 5,
+                "loan_cancel": 2,
+                "device": 3,
+                "loan_submit": 1,
+                "ua": 5,
+                "da": 5,
+                "user": 3
+            },
+            "013": {
+                "da": 1
+            },
+            "007": {
+                "loan_create": 3,
+                "loan_cancel": 2,
+                "device": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "015": {
+                "da": 1
+            },
+            "020": {
+                "loan_create": 2,
+                "loan_cancel": 1,
+                "device": 3,
+                "ua": 4,
+                "da": 4,
+                "user": 3
+            },
+            "011": {
+                "loan_create": 9,
+                "device": 11,
+                "loan_submit": 3,
+                "ua": 18,
+                "da": 21,
+                "user": 11
+            },
+            "001": {
+                "ua": 1,
+                "da": 1
+            },
+            "anzhi": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 2,
+                "da": 2
+            }
+        },
+        "_id": 19,
+        "com_luo_CashPocket1_0_2": {
+            "yingyongbao": {
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_11": {
+            "010": {
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "da": 1
+            },
+            "012": {
+                "da": 1,
+                "device": 1
+            },
+            "baidu": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "huaweizhihuiyun": {
+                "loan_create": 3,
+                "device": 2,
+                "loan_submit": 4,
+                "ua": 4,
+                "da": 5,
+                "user": 2
+            }
+        },
+        "com_luo_CashPocket1_8": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 3
+            },
+            "011": {
+                "da": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 18,
+                "device": 6,
+                "loan_submit": 18,
+                "ua": 25,
+                "da": 28,
+                "user": 7
+            }
+        },
+        "com_luo_CashPocket1_12": {
+            "yingyongbao": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "002": {
+                "ua": 1,
+                "da": 1
+            },
+            "020": {
+                "ua": 1,
+                "da": 4
+            },
+            "010": {
+                "loan_submit": 3,
+                "loan_create": 3,
+                "ua": 5,
+                "da": 4,
+                "user": 1
+            },
+            "015": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 3,
+                "da": 3,
+                "user": 1
+            },
+            "001": {
+                "loan_create": 3,
+                "device": 5,
+                "loan_submit": 4,
+                "ua": 6,
+                "da": 8,
+                "user": 4
+            },
+            "anzhi": {
+                "ua": 1,
+                "da": 1
+            },
+            "012": {
+                "loan_submit": 2,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "003": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "015": {
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "001": {
+                "loan_create": 3,
+                "device": 4,
+                "loan_submit": 2,
+                "ua": 5,
+                "da": 6,
+                "user": 3
+            },
+            "002": {
+                "ua": 1,
+                "da": 1
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_13": {
+            "013": {
+                "da": 2,
+                "device": 2
+            },
+            "011": {
+                "loan_create": 6,
+                "loan_cancel": 1,
+                "device": 9,
+                "loan_submit": 5,
+                "ua": 17,
+                "da": 29,
+                "user": 2
+            },
+            "005": {
+                "da": 1,
+                "device": 1
+            },
+            "003": {
+                "user": 1,
+                "ua": 1,
+                "da": 3,
+                "device": 3
+            },
+            "chuizi": {
+                "da": 1
+            },
+            "010": {
+                "loan_create": 4,
+                "device": 12,
+                "loan_submit": 3,
+                "ua": 7,
+                "da": 18,
+                "user": 3
+            },
+            "007": {
+                "user": 1,
+                "ua": 1,
+                "da": 2,
+                "device": 2
+            },
+            "002": {
+                "ua": 1,
+                "da": 1
+            },
+            "020": {
+                "user": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 3,
+                "device": 3
+            },
+            "012": {
+                "loan_create": 6,
+                "device": 20,
+                "loan_submit": 1,
+                "ua": 10,
+                "da": 27,
+                "user": 5
+            },
+            "004": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2,
+                "device": 1
+            },
+            "001": {
+                "loan_submit": 1,
+                "loan_cancel": 2,
+                "ua": 3,
+                "da": 3
+            },
+            "anzhi": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2
+            },
+            "360baohe": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_12": {
+            "007": {
+                "da": 1,
+                "device": 1
+            },
+            "015": {
+                "loan_create": 2,
+                "loan_cancel": 1,
+                "device": 6,
+                "ua": 1,
+                "da": 6,
+                "user": 1
+            },
+            "002": {
+                "loan_create": 2,
+                "loan_cancel": 1,
+                "device": 1,
+                "ua": 2,
+                "da": 2,
+                "user": 1
+            },
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 3,
+                "da": 4,
+                "device": 1
+            },
+            "020": {
+                "ua": 1,
+                "da": 3,
+                "device": 2
+            },
+            "010": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 4,
+                "da": 6,
+                "user": 1
+            },
+            "001": {
+                "da": 5,
+                "device": 5
+            },
+            "003": {
+                "da": 2,
+                "device": 2
+            },
+            "011": {
+                "loan_create": 3,
+                "device": 2,
+                "loan_submit": 2,
+                "ua": 5,
+                "da": 6,
+                "user": 1
+            },
+            "018": {
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_0_2": {
+            "010": {
+                "ua": 1,
+                "da": 1
+            },
+            "yingyongbao": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2
+            },
+            "002": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "015": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_ignorantstar_huohuodai2_1": {
+            "AppStore": {
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_0_3": {
+            "keke": {
+                "loan_cancel": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "huaweizhihuiyun": {
+                "ua": 2,
+                "da": 2
+            },
+            "sougouyingyong": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "_id": 18,
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 19,
+                "loan_cancel": 8,
+                "device": 7,
+                "loan_submit": 19,
+                "ua": 16,
+                "da": 24,
+                "user": 3
+            }
+        },
+        "com_ignorantstar_huohuodai1_9": {
+            "AppStore": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_8": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "001": {
+                "loan_create": 5,
+                "device": 14,
+                "loan_submit": 1,
+                "ua": 8,
+                "da": 19,
+                "user": 4
+            }
+        },
+        "com_luo_CashPocket1_9": {
+            "010": {
+                "ua": 1,
+                "da": 1
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_13": {
+            "010": {
+                "ua": 1,
+                "da": 2,
+                "device": 1
+            },
+            "011": {
+                "user": 2,
+                "loan_create": 2,
+                "ua": 10,
+                "da": 22,
+                "device": 15
+            },
+            "020": {
+                "user": 1,
+                "ua": 1,
+                "da": 11,
+                "device": 10
+            },
+            "005": {
+                "da": 4,
+                "device": 4
+            },
+            "001": {
+                "ua": 2,
+                "da": 2
+            },
+            "anzhi": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "012": {
+                "loan_create": 4,
+                "device": 12,
+                "loan_submit": 1,
+                "ua": 10,
+                "da": 17,
+                "user": 8
+            },
+            "003": {
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_12": {
+            "012": {
+                "loan_create": 5,
+                "device": 5,
+                "loan_submit": 1,
+                "ua": 10,
+                "da": 10,
+                "user": 5
+            },
+            "010": {
+                "loan_create": 12,
+                "loan_cancel": 2,
+                "device": 14,
+                "loan_submit": 4,
+                "ua": 22,
+                "da": 21,
+                "user": 16
+            },
+            "002": {
+                "loan_create": 2,
+                "device": 2,
+                "loan_submit": 1,
+                "ua": 3,
+                "da": 3,
+                "user": 2
+            },
+            "keke": {
+                "loan_submit": 2,
+                "loan_create": 3,
+                "ua": 4,
+                "da": 4
+            },
+            "chuizi": {
+                "ua": 1,
+                "da": 1
+            },
+            "003": {
+                "loan_submit": 2,
+                "loan_create": 2,
+                "ua": 3,
+                "da": 3
+            },
+            "005": {
+                "user": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            },
+            "015": {
+                "user": 1,
+                "ua": 2,
+                "da": 3,
+                "device": 3
+            },
+            "020": {
+                "loan_create": 8,
+                "loan_cancel": 1,
+                "device": 6,
+                "loan_submit": 3,
+                "ua": 8,
+                "da": 11,
+                "user": 4
+            },
+            "011": {
+                "loan_create": 23,
+                "loan_cancel": 1,
+                "device": 23,
+                "loan_submit": 7,
+                "ua": 41,
+                "da": 42,
+                "user": 22
+            },
+            "001": {
+                "loan_create": 1,
+                "ua": 2,
+                "da": 2
+            },
+            "anzhi": {
+                "loan_create": 1,
+                "ua": 2,
+                "da": 2
+            }
+        },
+        "com_luo_CashPocket1_0_2": {
+            "yingyongbao": {
+                "user": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_11": {
+            "010": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "010": {
+                "loan_submit": 3,
+                "loan_create": 3,
+                "ua": 2,
+                "da": 2
+            },
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_ignorantstar_huohuodai2_1": {
+            "AppStore": {
+                "da": 5,
+                "device": 5
+            }
+        },
+        "com_luo_CashPocket1_0_3": {
+            "keke": {
+                "loan_create": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "huaweizhihuiyun": {
+                "user": 5,
+                "loan_create": 3,
+                "ua": 6,
+                "da": 7,
+                "device": 5
+            }
+        },
+        "_id": 17,
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 27,
+                "da": 35,
+                "device": 14,
+                "loan_submit": 26,
+                "ua": 34,
+                "loan_cancel": 3,
+                "user": 13
+            }
+        },
+        "com_luo_CashPocket1_8": {
+            "010": {
+                "da": 1
+            },
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "015": {
+                "ua": 1,
+                "da": 1
+            },
+            "001": {
+                "loan_create": 8,
+                "device": 14,
+                "loan_submit": 2,
+                "ua": 16,
+                "da": 17,
+                "user": 13
+            }
+        },
+        "com_luo_CashPocket1_9": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_13": {
+            "没有获取到渠道信息": {
+                "product_look": {
+                    "13": 1,
+                    "10": 1
+                },
+                "news_apply": {
+                    "3": 1
+                },
+                "ua": 1,
+                "da": 1,
+                "product_apply": {
+                    "10": 1,
+                    "4": 3,
+                    "6": 3
+                }
+            }
+        },
+        "com_ignorantstar_huohuodai2_1": {
+            "AppStore": {
+                "da": 4,
+                "device": 3
+            }
+        },
+        "_id": 16,
+        "com_luo_CashPocket1_0_2": {
+            "yingyongbao": {
+                "ua": 1,
+                "da": 1
+            },
+            "vivo": {
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_11": {
+            "007": {
+                "da": 1,
+                "device": 1
+            },
+            "015": {
+                "da": 1,
+                "device": 1
+            },
+            "020": {
+                "da": 1,
+                "device": 1
+            },
+            "018": {
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "010": {
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "keke": {
+                "ua": 1,
+                "da": 1
+            },
+            "huaweizhihuiyun": {
+                "user": 1,
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 23,
+                "device": 8,
+                "loan_submit": 22,
+                "ua": 31,
+                "da": 32,
+                "user": 9
+            }
+        },
+        "com_luo_CashPocket1_12": {
+            "keke": {
+                "loan_submit": 3,
+                "loan_create": 3,
+                "ua": 5,
+                "da": 5
+            },
+            "010": {
+                "loan_create": 12,
+                "loan_cancel": 1,
+                "device": 11,
+                "loan_submit": 10,
+                "ua": 20,
+                "da": 21,
+                "user": 10
+            },
+            "002": {
+                "loan_create": 3,
+                "device": 4,
+                "loan_submit": 3,
+                "ua": 4,
+                "da": 4,
+                "user": 4
+            },
+            "vivo": {
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "003": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "yingyongbao": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "015": {
+                "loan_create": 3,
+                "device": 3,
+                "loan_submit": 3,
+                "ua": 4,
+                "da": 5,
+                "user": 2
+            },
+            "020": {
+                "loan_create": 4,
+                "loan_cancel": 1,
+                "device": 3,
+                "loan_submit": 3,
+                "ua": 4,
+                "da": 5,
+                "user": 3
+            },
+            "012": {
+                "loan_create": 10,
+                "device": 11,
+                "loan_submit": 10,
+                "ua": 16,
+                "da": 16,
+                "user": 11
+            },
+            "011": {
+                "loan_create": 18,
+                "device": 18,
+                "loan_submit": 18,
+                "ua": 37,
+                "da": 40,
+                "user": 19
+            },
+            "004": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "没有获取到渠道信息": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "001": {
+                "loan_create": 5,
+                "device": 5,
+                "loan_submit": 4,
+                "ua": 5,
+                "da": 6,
+                "user": 4
+            },
+            "015": {
+                "ua": 1,
+                "da": 1
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_5": {
+            "huaweizhihuiyun": {
+                "ua": 1,
+                "da": 2
+            }
+        },
+        "_id": 15,
+        "com_ignorantstar_huohuodai1_7": {
+            "AppStore": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 28,
+                "loan_cancel": 5,
+                "device": 8,
+                "loan_submit": 26,
+                "ua": 31,
+                "da": 32,
+                "user": 8
+            }
+        },
+        "com_luo_CashPocket1_11": {
+            "002": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "010": {
+                "loan_submit": 1,
+                "da": 1
+            },
+            "004": {
+                "ua": 1,
+                "da": 1
+            },
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1
+            },
+            "015": {
+                "loan_submit": 1,
+                "loan_create": 1
+            },
+            "011": {
+                "loan_submit": 1
+            }
+        },
+        "com_luo_CashPocket1_8": {
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_0_2": {
+            "yingyongbao": {
+                "user": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_12": {
+            "keke": {
+                "loan_submit": 2,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 2
+            },
+            "baidu": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "010": {
+                "loan_create": 22,
+                "device": 21,
+                "loan_submit": 23,
+                "ua": 36,
+                "da": 36,
+                "user": 23
+            },
+            "002": {
+                "loan_create": 2,
+                "device": 4,
+                "loan_submit": 2,
+                "ua": 5,
+                "da": 5,
+                "user": 3
+            },
+            "012": {
+                "loan_create": 12,
+                "device": 14,
+                "loan_submit": 9,
+                "ua": 19,
+                "da": 19,
+                "user": 13
+            },
+            "vivo": {
+                "ua": 1,
+                "da": 1
+            },
+            "003": {
+                "loan_submit": 2,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 2
+            },
+            "007": {
+                "ua": 1,
+                "da": 1
+            },
+            "015": {
+                "loan_create": 2,
+                "device": 4,
+                "loan_submit": 3,
+                "ua": 4,
+                "da": 5,
+                "user": 3
+            },
+            "020": {
+                "loan_create": 6,
+                "device": 6,
+                "loan_submit": 6,
+                "ua": 9,
+                "da": 10,
+                "user": 5
+            },
+            "011": {
+                "loan_create": 21,
+                "loan_cancel": 3,
+                "device": 23,
+                "loan_submit": 17,
+                "ua": 37,
+                "da": 39,
+                "user": 22
+            },
+            "chuizi": {
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "001": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "001": {
+                "loan_create": 6,
+                "device": 11,
+                "loan_submit": 4,
+                "ua": 11,
+                "da": 16,
+                "user": 6
+            },
+            "002": {
+                "da": 1,
+                "device": 1
+            },
+            "015": {
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_9": {
+            "010": {
+                "da": 3,
+                "device": 3
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_12": {
+            "099": {
+                "da": 4,
+                "device": 4
+            },
+            "011": {
+                "loan_create": 18,
+                "device": 24,
+                "loan_submit": 15,
+                "ua": 39,
+                "da": 41,
+                "user": 23
+            },
+            "anzhi": {
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "keke": {
+                "loan_submit": 5,
+                "loan_create": 5,
+                "ua": 6,
+                "da": 6
+            },
+            "010": {
+                "loan_create": 17,
+                "device": 17,
+                "loan_submit": 15,
+                "ua": 26,
+                "da": 28,
+                "user": 13
+            },
+            "002": {
+                "loan_create": 2,
+                "device": 4,
+                "loan_submit": 2,
+                "ua": 4,
+                "da": 4,
+                "user": 3
+            },
+            "012": {
+                "loan_create": 7,
+                "device": 7,
+                "loan_submit": 7,
+                "ua": 10,
+                "da": 11,
+                "user": 7
+            },
+            "vivo": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "003": {
+                "loan_create": 2,
+                "device": 1,
+                "loan_submit": 2,
+                "ua": 3,
+                "da": 3,
+                "user": 1
+            },
+            "yingyongbao": {
+                "loan_submit": 2,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 2
+            },
+            "007": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "015": {
+                "user": 1,
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            },
+            "020": {
+                "loan_create": 4,
+                "device": 3,
+                "loan_submit": 5,
+                "ua": 6,
+                "da": 8,
+                "user": 2
+            },
+            "没有获取到渠道信息": {
+                "loan_cancel": 2,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 2
+            },
+            "huaweizhihuiyun": {
+                "da": 1
+            },
+            "360baohe": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_0_2": {
+            "yingyongbao": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_luo_CashPocket1_11": {
+            "002": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "020": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "010": {
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "huaweizhihuiyun": {
+                "loan_create": 3,
+                "device": 2,
+                "loan_submit": 3,
+                "ua": 3,
+                "da": 3,
+                "user": 1
+            }
+        },
+        "com_luo_CashPocket1_6": {
+            "008": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_0_3": {
+            "baidu": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_9": {
+            "AppStore": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "_id": 14,
+        "com_ignorantstar_huohuodai1_7": {
+            "AppStore": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_sign": 1,
+                "loan_create": 19,
+                "device": 7,
+                "loan_submit": 20,
+                "ua": 28,
+                "da": 28,
+                "user": 7
+            }
+        },
+        "com_luo_CashPocket1_8": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2
+            },
+            "baidu": {
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "007": {
+                "da": 1,
+                "device": 1
+            },
+            "001": {
+                "loan_create": 14,
+                "loan_cancel": 1,
+                "device": 15,
+                "loan_submit": 12,
+                "ua": 20,
+                "da": 22,
+                "user": 14
+            },
+            "020": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 2,
+                "da": 3,
+                "device": 1
+            },
+            "012": {
+                "da": 1
+            },
+            "018": {
+                "da": 2,
+                "device": 2
+            }
+        },
+        "com_luo_CashPocket1_9": {
+            "001": {
+                "da": 1,
+                "device": 1
+            },
+            "020": {
+                "da": 1,
+                "device": 1
+            },
+            "015": {
+                "da": 1,
+                "device": 1
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_12": {
+            "011": {
+                "loan_create": 27,
+                "device": 39,
+                "loan_submit": 25,
+                "ua": 47,
+                "da": 53,
+                "user": 35
+            },
+            "keke": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "010": {
+                "loan_create": 19,
+                "loan_cancel": 2,
+                "device": 16,
+                "loan_submit": 17,
+                "ua": 32,
+                "da": 32,
+                "user": 16
+            },
+            "015": {
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "chuizi": {
+                "ua": 1,
+                "da": 1
+            },
+            "003": {
+                "ua": 4,
+                "da": 4
+            },
+            "002": {
+                "loan_create": 4,
+                "device": 7,
+                "loan_submit": 3,
+                "ua": 9,
+                "da": 8,
+                "user": 8
+            },
+            "020": {
+                "loan_create": 13,
+                "device": 13,
+                "loan_submit": 13,
+                "ua": 16,
+                "da": 17,
+                "user": 11
+            },
+            "012": {
+                "loan_create": 4,
+                "device": 4,
+                "loan_submit": 3,
+                "ua": 6,
+                "da": 7,
+                "user": 3
+            },
+            "004": {
+                "ua": 1,
+                "da": 1
+            },
+            "没有获取到渠道信息": {
+                "ua": 1,
+                "da": 1
+            },
+            "huaweizhihuiyun": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "anzhi": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_0_2": {
+            "yingyongbao": {
+                "loan_submit": 1,
+                "loan_create": 1
+            }
+        },
+        "com_luo_CashPocket1_11": {
+            "011": {
+                "ua": 1,
+                "da": 1
+            },
+            "没有获取到渠道信息": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2
+            },
+            "keke": {
+                "da": 1
+            },
+            "002": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "012": {
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_9": {
+            "AppStore": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "huaweizhihuiyun": {
+                "loan_create": 2,
+                "device": 3,
+                "loan_submit": 2,
+                "ua": 2,
+                "da": 4,
+                "user": 2
+            }
+        },
+        "_id": 13,
+        "com_ignorantstar_huohuodai1_7": {
+            "AppStore": {
+                "loan_submit": 2,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 21,
+                "loan_cancel": 1,
+                "device": 8,
+                "loan_submit": 19,
+                "ua": 32,
+                "da": 34,
+                "user": 9
+            }
+        },
+        "com_luo_CashPocket1_8": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "huaweizhihuiyun": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "001": {
+                "loan_create": 11,
+                "loan_cancel": 1,
+                "device": 12,
+                "loan_submit": 7,
+                "ua": 15,
+                "da": 16,
+                "user": 12
+            },
+            "020": {
+                "loan_submit": 2,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2
+            },
+            "012": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "011": {
+                "user": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_9": {
+            "010": {
+                "ua": 1,
+                "da": 1
+            },
+            "007": {
+                "da": 1,
+                "device": 1
+            },
+            "018": {
+                "da": 3,
+                "device": 3
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket1_12": {
+            "011": {
+                "loan_create": 25,
+                "loan_cancel": 1,
+                "device": 29,
+                "loan_submit": 18,
+                "ua": 37,
+                "da": 42,
+                "user": 24
+            },
+            "baidu": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "005": {
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            },
+            "003": {
+                "loan_submit": 1,
+                "user": 1,
+                "ua": 5,
+                "da": 5,
+                "device": 1
+            },
+            "keke": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "018": {
+                "da": 1,
+                "device": 1
+            },
+            "yingyongbao": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "010": {
+                "loan_create": 14,
+                "device": 13,
+                "loan_submit": 15,
+                "ua": 22,
+                "da": 22,
+                "user": 13
+            },
+            "002": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 2,
+                "ua": 2,
+                "da": 2,
+                "user": 1
+            },
+            "020": {
+                "loan_create": 6,
+                "loan_cancel": 1,
+                "device": 5,
+                "loan_submit": 7,
+                "ua": 7,
+                "da": 9,
+                "user": 3
+            },
+            "012": {
+                "loan_create": 6,
+                "device": 6,
+                "loan_submit": 5,
+                "ua": 9,
+                "da": 10,
+                "user": 6
+            },
+            "001": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket": {
+            "011": {
+                "loan_create": 13,
+                "loan_cancel": 1,
+                "device": 12,
+                "loan_submit": 10,
+                "ua": 22,
+                "da": 24,
+                "user": 10
+            },
+            "baidu": {
+                "ua": 1,
+                "da": 1
+            },
+            "005": {
+                "ua": 1,
+                "da": 1
+            },
+            "002": {
+                "user": 2,
+                "loan_create": 1,
+                "ua": 2,
+                "da": 3,
+                "device": 2
+            },
+            "003": {
+                "loan_submit": 1,
+                "loan_create": 2,
+                "ua": 6,
+                "da": 6,
+                "user": 1
+            },
+            "010": {
+                "loan_create": 17,
+                "device": 14,
+                "loan_submit": 16,
+                "ua": 24,
+                "da": 26,
+                "user": 13
+            },
+            "015": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "020": {
+                "loan_create": 4,
+                "device": 6,
+                "loan_submit": 3,
+                "ua": 7,
+                "da": 7,
+                "user": 6
+            },
+            "012": {
+                "loan_create": 6,
+                "device": 6,
+                "loan_submit": 7,
+                "ua": 9,
+                "da": 13,
+                "user": 4
+            },
+            "004": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "001": {
+                "loan_create": 6,
+                "device": 5,
+                "loan_submit": 5,
+                "ua": 10,
+                "da": 10,
+                "user": 5
+            },
+            "没有获取到渠道信息": {
+                "da": 1
+            },
+            "huaweizhihuiyun": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 2,
+                "da": 2,
+                "user": 1
+            }
+        },
+        "com_luo_CashPocket1_0_2": {
+            "yingyongbao": {
+                "loan_submit": 2,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 2
+            }
+        },
+        "com_luo_CashPocket1_11": {
+            "015": {
+                "ua": 1,
+                "da": 1
+            },
+            "012": {
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "没有获取到渠道信息": {
+                "ua": 1,
+                "da": 1
+            },
+            "020": {
+                "da": 1,
+                "device": 1
+            }
+        },
+        "com_luo_CashPocket1_7": {
+            "yingyongbao": {
+                "da": 1
+            },
+            "010": {
+                "da": 1
+            },
+            "012": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_5": {
+            "yingyongbao": {
+                "ua": 1,
+                "da": 1
+            },
+            "huaweizhihuiyun": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            }
+        },
+        "com_ignorantstar_huohuodai1_9": {
+            "AppStore": {
+                "da": 1,
+                "device": 1
+            }
+        },
+        "_id": 12,
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "loan_create": 12,
+                "device": 9,
+                "loan_submit": 11,
+                "ua": 19,
+                "da": 21,
+                "user": 7
+            }
+        },
+        "com_ignorantstar_huohuodai1_8": {
+            "AppStore": {
+                "loan_create": 12,
+                "loan_cancel": 3,
+                "device": 6,
+                "loan_submit": 11,
+                "ua": 17,
+                "da": 19,
+                "user": 4
+            }
+        },
+        "com_luo_CashPocket1_8": {
+            "010": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 3,
+                "da": 3
+            },
+            "020": {
+                "da": 1
+            }
+        },
+        "com_luo_CashPocket1_10": {
+            "yingyongbao": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "011": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "020": {
+                "ua": 1,
+                "da": 1
+            },
+            "012": {
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "001": {
+                "loan_create": 5,
+                "loan_cancel": 1,
+                "device": 7,
+                "loan_submit": 4,
+                "ua": 6,
+                "da": 7,
+                "user": 6
+            },
+            "002": {
+                "ua": 1,
+                "da": 1
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket": {
+            "099": {
+                "da": 1
+            },
+            "011": {
+                "loan_create": 30,
+                "device": 44,
+                "loan_submit": 31,
+                "ua": 50,
+                "da": 68,
+                "user": 33
+            },
+            "keke": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "baidu": {
+                "loan_create": 2,
+                "device": 1,
+                "loan_submit": 2,
+                "ua": 2,
+                "da": 2,
+                "user": 1
+            },
+            "010": {
+                "loan_create": 25,
+                "device": 36,
+                "loan_submit": 23,
+                "ua": 45,
+                "da": 48,
+                "user": 33
+            },
+            "015": {
+                "user": 2,
+                "ua": 2,
+                "da": 3,
+                "device": 2
+            },
+            "012": {
+                "loan_create": 14,
+                "loan_cancel": 1,
+                "device": 25,
+                "loan_submit": 13,
+                "ua": 23,
+                "da": 34,
+                "user": 14
+            },
+            "003": {
+                "loan_create": 22,
+                "loan_cancel": 1,
+                "device": 25,
+                "loan_submit": 15,
+                "ua": 31,
+                "da": 35,
+                "user": 20
+            },
+            "yingyongbao": {
+                "loan_submit": 1,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 2
+            },
+            "005": {
+                "da": 4
+            },
+            "002": {
+                "loan_create": 1,
+                "device": 1,
+                "loan_submit": 2,
+                "ua": 3,
+                "da": 3,
+                "user": 1
+            },
+            "020": {
+                "loan_create": 8,
+                "device": 19,
+                "loan_submit": 8,
+                "ua": 13,
+                "da": 28,
+                "user": 8
+            },
+            "007": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "004": {
+                "ua": 1,
+                "da": 2,
+                "device": 1
+            },
+            "001": {
+                "loan_create": 16,
+                "loan_cancel": 2,
+                "device": 21,
+                "loan_submit": 13,
+                "ua": 20,
+                "da": 26,
+                "user": 15
+            },
+            "没有获取到渠道信息": {
+                "ua": 1,
+                "da": 3,
+                "device": 2
+            },
+            "huaweizhihuiyun": {
+                "loan_create": 6,
+                "da": 6,
+                "device": 2,
+                "loan_submit": 4,
+                "ua": 5,
+                "loan_cancel": 1,
+                "user": 1
+            },
+            "anzhi": {
+                "loan_submit": 2,
+                "loan_create": 2,
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "_id": 11,
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "loan_create": 43,
+                "da": 62,
+                "device": 17,
+                "loan_submit": 44,
+                "ua": 59,
+                "loan_cancel": 2,
+                "user": 15
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket": {
+            "099": {
+                "da": 1
+            },
+            "012": {
+                "loan_create": 15,
+                "device": 13,
+                "loan_submit": 14,
+                "ua": 21,
+                "da": 26,
+                "user": 9
+            },
+            "没有获取到渠道信息": {
+                "ua": 1,
+                "da": 1
+            },
+            "meizu": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "user": 1
+            },
+            "keke": {
+                "loan_submit": 2,
+                "loan_create": 2,
+                "ua": 1,
+                "da": 2
+            },
+            "010": {
+                "loan_create": 25,
+                "loan_cancel": 4,
+                "device": 32,
+                "loan_submit": 22,
+                "ua": 40,
+                "da": 43,
+                "user": 30
+            },
+            "015": {
+                "da": 1
+            },
+            "baidu": {
+                "ua": 1,
+                "da": 1
+            },
+            "011": {
+                "loan_create": 29,
+                "loan_cancel": 2,
+                "device": 30,
+                "loan_submit": 20,
+                "ua": 39,
+                "da": 44,
+                "user": 26
+            },
+            "003": {
+                "loan_create": 3,
+                "device": 1,
+                "loan_submit": 2,
+                "ua": 3,
+                "da": 3,
+                "user": 2
+            },
+            "yingyongbao": {
+                "loan_create": 8,
+                "da": 9,
+                "device": 4,
+                "loan_submit": 7,
+                "ua": 9,
+                "loan_cancel": 1,
+                "user": 4
+            },
+            "007": {
+                "loan_create": 2,
+                "device": 2,
+                "loan_submit": 3,
+                "ua": 3,
+                "da": 3,
+                "user": 2
+            },
+            "002": {
+                "loan_create": 9,
+                "device": 12,
+                "loan_submit": 9,
+                "ua": 15,
+                "da": 16,
+                "user": 11
+            },
+            "020": {
+                "loan_create": 11,
+                "device": 16,
+                "loan_submit": 9,
+                "ua": 17,
+                "da": 18,
+                "user": 15
+            },
+            "004": {
+                "loan_create": 1,
+                "device": 2,
+                "loan_submit": 1,
+                "ua": 2,
+                "da": 3,
+                "user": 1
+            },
+            "001": {
+                "loan_create": 17,
+                "device": 12,
+                "loan_submit": 9,
+                "ua": 20,
+                "da": 20,
+                "user": 11
+            },
+            "anzhi": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "huaweizhihuiyun": {
+                "loan_create": 4,
+                "device": 3,
+                "loan_submit": 5,
+                "ua": 8,
+                "da": 8,
+                "user": 3
+            },
+            "360baohe": {
+                "loan_submit": 1,
+                "loan_create": 2,
+                "loan_cancel": 1
+            }
+        },
+        "_id": 10,
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "loan_create": 54,
+                "loan_cancel": 1,
+                "device": 34,
+                "loan_submit": 52,
+                "ua": 65,
+                "da": 69,
+                "user": 35
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket": {
+            "011": {
+                "loan_create": 21,
+                "device": 24,
+                "loan_submit": 24,
+                "ua": 38,
+                "da": 43,
+                "user": 21
+            },
+            "meizu": {
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "keke": {
+                "da": 1
+            },
+            "baidu": {
+                "loan_submit": 1,
+                "ua": 2,
+                "da": 2
+            },
+            "010": {
+                "loan_create": 16,
+                "device": 21,
+                "loan_submit": 14,
+                "ua": 28,
+                "da": 32,
+                "user": 18
+            },
+            "015": {
+                "loan_create": 4,
+                "device": 1,
+                "loan_submit": 5,
+                "ua": 6,
+                "da": 6,
+                "user": 1
+            },
+            "012": {
+                "loan_create": 29,
+                "loan_cancel": 2,
+                "device": 30,
+                "loan_submit": 25,
+                "ua": 47,
+                "da": 51,
+                "user": 26
+            },
+            "003": {
+                "loan_create": 4,
+                "device": 2,
+                "loan_submit": 4,
+                "ua": 3,
+                "da": 4,
+                "user": 1
+            },
+            "yingyongbao": {
+                "loan_create": 2,
+                "device": 2,
+                "loan_submit": 2,
+                "ua": 3,
+                "da": 3,
+                "user": 2
+            },
+            "007": {
+                "loan_create": 3,
+                "device": 2,
+                "loan_submit": 2,
+                "ua": 3,
+                "da": 3,
+                "user": 2
+            },
+            "002": {
+                "loan_create": 10,
+                "loan_cancel": 1,
+                "device": 7,
+                "loan_submit": 8,
+                "ua": 10,
+                "da": 11,
+                "user": 6
+            },
+            "020": {
+                "loan_create": 12,
+                "loan_cancel": 2,
+                "device": 8,
+                "loan_submit": 7,
+                "ua": 12,
+                "da": 13,
+                "user": 7
+            },
+            "sougouyingyong": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "004": {
+                "da": 2,
+                "device": 1
+            },
+            "001": {
+                "loan_create": 12,
+                "device": 16,
+                "loan_submit": 11,
+                "ua": 19,
+                "da": 22,
+                "user": 14
+            },
+            "huaweizhihuiyun": {
+                "loan_create": 6,
+                "device": 4,
+                "loan_submit": 5,
+                "ua": 8,
+                "da": 9,
+                "user": 4
+            },
+            "anzhi": {
+                "ua": 1,
+                "da": 1
+            }
+        },
+        "_id": 9,
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "loan_create": 48,
+                "loan_cancel": 1,
+                "device": 25,
+                "loan_submit": 47,
+                "ua": 64,
+                "da": 70,
+                "user": 22
+            }
+        }
+    },
+    {
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "loan_create": 36,
+                "device": 21,
+                "loan_submit": 37,
+                "ua": 54,
+                "da": 59,
+                "user": 17
+            }
+        },
+        "_id": 8,
+        "com_luo_CashPocket": {
+            "012": {
+                "loan_create": 24,
+                "loan_cancel": 3,
+                "device": 41,
+                "loan_submit": 13,
+                "ua": 44,
+                "da": 59,
+                "user": 26
+            },
+            "baidu": {
+                "loan_create": 1,
+                "ua": 4,
+                "da": 4
+            },
+            "010": {
+                "loan_submit": 4,
+                "loan_create": 4,
+                "ua": 7,
+                "da": 9,
+                "device": 2
+            },
+            "015": {
+                "loan_create": 2,
+                "device": 2,
+                "loan_submit": 2,
+                "ua": 2,
+                "da": 3,
+                "user": 1
+            },
+            "aliyun": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "keke": {
+                "loan_submit": 2,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 3
+            },
+            "vivo": {
+                "loan_submit": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "yingyongbao": {
+                "loan_create": 3,
+                "device": 1,
+                "loan_submit": 3,
+                "ua": 4,
+                "da": 4,
+                "user": 1
+            },
+            "007": {
+                "ua": 1,
+                "da": 1
+            },
+            "002": {
+                "loan_create": 2,
+                "device": 3,
+                "loan_submit": 2,
+                "ua": 4,
+                "da": 5,
+                "user": 2
+            },
+            "020": {
+                "loan_create": 7,
+                "device": 14,
+                "loan_submit": 7,
+                "ua": 10,
+                "da": 24,
+                "user": 3
+            },
+            "011": {
+                "loan_create": 44,
+                "loan_cancel": 2,
+                "device": 55,
+                "loan_submit": 36,
+                "ua": 61,
+                "da": 81,
+                "user": 40
+            },
+            "001": {
+                "loan_create": 20,
+                "device": 21,
+                "loan_submit": 17,
+                "ua": 29,
+                "da": 30,
+                "user": 20
+            },
+            "360baohe": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "005": {
+                "da": 4,
+                "device": 4
+            },
+            "huaweizhihuiyun": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 2,
+                "da": 4
+            },
+            "anzhi": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        }
+    },
+    {
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "loan_sign": 1,
+                "loan_create": 40,
+                "loan_cancel": 1,
+                "device": 34,
+                "loan_submit": 38,
+                "ua": 59,
+                "da": 65,
+                "user": 30
+            }
+        },
+        "_id": 7,
+        "com_luo_CashPocket": {
+            "wandoujia": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "011": {
+                "loan_create": 39,
+                "loan_cancel": 1,
+                "device": 49,
+                "loan_submit": 27,
+                "ua": 65,
+                "da": 74,
+                "user": 45
+            },
+            "meizu": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            },
+            "keke": {
+                "loan_submit": 2,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 3
+            },
+            "baidu": {
+                "loan_submit": 3,
+                "loan_create": 4,
+                "ua": 5,
+                "da": 6
+            },
+            "010": {
+                "loan_create": 5,
+                "device": 3,
+                "loan_submit": 5,
+                "ua": 12,
+                "da": 15,
+                "user": 2
+            },
+            "002": {
+                "da": 1
+            },
+            "003": {
+                "loan_submit": 1,
+                "loan_create": 2,
+                "ua": 2,
+                "da": 2
+            },
+            "018": {
+                "user": 1,
+                "ua": 1,
+                "da": 2,
+                "device": 2
+            },
+            "yingyongbao": {
+                "loan_submit": 5,
+                "loan_create": 4,
+                "ua": 5,
+                "da": 5
+            },
+            "007": {
+                "loan_submit": 1,
+                "loan_create": 1
+            },
+            "015": {
+                "loan_create": 4,
+                "device": 5,
+                "loan_submit": 3,
+                "ua": 5,
+                "da": 6,
+                "user": 5
+            },
+            "020": {
+                "loan_create": 6,
+                "device": 5,
+                "loan_submit": 6,
+                "ua": 10,
+                "da": 12,
+                "user": 5
+            },
+            "012": {
+                "loan_create": 34,
+                "loan_cancel": 1,
+                "device": 40,
+                "loan_submit": 22,
+                "ua": 53,
+                "da": 57,
+                "user": 34
+            },
+            "Lin": {
+                "da": 1
+            },
+            "001": {
+                "loan_create": 16,
+                "loan_cancel": 1,
+                "device": 18,
+                "loan_submit": 13,
+                "ua": 21,
+                "da": 23,
+                "user": 17
+            },
+            "anzhi": {
+                "ua": 1,
+                "da": 1
+            },
+            "huaweizhihuiyun": {
+                "loan_create": 7,
+                "device": 3,
+                "loan_submit": 7,
+                "ua": 9,
+                "da": 10,
+                "user": 3
+            },
+            "360baohe": {
+                "loan_submit": 3,
+                "loan_create": 3,
+                "ua": 2,
+                "da": 2
+            }
+        }
+    },
+    {
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "active": 56,
+                "loan_create": 24,
+                "loan_cancel": 1,
+                "device": 42,
+                "loan_submit": 23,
+                "ua": 32,
+                "da": 35,
+                "user": 14
+            }
+        },
+        "_id": 6,
+        "com_luo_CashPocket": {
+            "yingyongbao": {
+                "active": 5
+            },
+            "012": {
+                "active": 56,
+                "loan_create": 12,
+                "loan_cancel": 1,
+                "device": 46,
+                "loan_submit": 10,
+                "ua": 23,
+                "da": 23,
+                "user": 11
+            },
+            "baidu": {
+                "active": 8,
+                "loan_create": 2,
+                "device": 5,
+                "loan_submit": 2,
+                "ua": 5,
+                "da": 5,
+                "user": 1
+            },
+            "010": {
+                "active": 22,
+                "loan_create": 2,
+                "device": 6,
+                "loan_submit": 2,
+                "ua": 5,
+                "da": 5
+            },
+            "015": {
+                "active": 3,
+                "ua": 1,
+                "da": 3,
+                "device": 3
+            },
+            "keke": {
+                "active": 4,
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 2
+            },
+            "003": {
+                "active": 5,
+                "loan_create": 1,
+                "device": 3,
+                "loan_submit": 1,
+                "ua": 2,
+                "da": 2,
+                "user": 1
+            },
+            "wandoujia": {
+                "active": 1
+            },
+            "005": {
+                "active": 1,
+                "loan_create": 1,
+                "device": 2,
+                "loan_submit": 1,
+                "ua": 2,
+                "da": 2,
+                "user": 1
+            },
+            "002": {
+                "active": 4,
+                "loan_create": 2,
+                "device": 4,
+                "loan_submit": 2,
+                "ua": 2,
+                "da": 2,
+                "user": 2
+            },
+            "020": {
+                "active": 6,
+                "loan_create": 1,
+                "device": 3,
+                "loan_submit": 1,
+                "ua": 4,
+                "da": 5,
+                "user": 1
+            },
+            "007": {
+                "active": 1,
+                "user": 1,
+                "ua": 1,
+                "da": 1,
+                "device": 2
+            },
+            "011": {
+                "active": 41,
+                "loan_create": 10,
+                "device": 37,
+                "loan_submit": 9,
+                "ua": 23,
+                "da": 27,
+                "user": 12
+            },
+            "004": {
+                "user": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1,
+                "device": 1
+            },
+            "001": {
+                "active": 16,
+                "loan_create": 4,
+                "device": 14,
+                "loan_submit": 2,
+                "ua": 4,
+                "da": 5,
+                "user": 3
+            },
+            "没有获取到渠道信息": {
+                "da": 1
+            },
+            "huaweizhihuiyun": {
+                "active": 7,
+                "loan_create": 5,
+                "device": 8,
+                "loan_submit": 4,
+                "ua": 5,
+                "da": 5,
+                "user": 3
+            },
+            "anzhi": {
+                "loan_submit": 1,
+                "loan_create": 1,
+                "ua": 1,
+                "da": 1
+            }
+        }
+    },
+    {
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "active": 82,
+                "device": 62
+            }
+        },
+        "_id": 5,
+        "com_luo_CashPocket": {
+            "yingyongbao": {
+                "active": 4
+            },
+            "011": {
+                "active": 80,
+                "device": 50
+            },
+            "keke": {
+                "active": 1
+            },
+            "baidu": {
+                "active": 10,
+                "device": 9
+            },
+            "005": {
+                "active": 4,
+                "device": 4
+            },
+            "007": {
+                "active": 3,
+                "device": 1
+            },
+            "chuizi": {
+                "active": 1
+            },
+            "003": {
+                "active": 7,
+                "device": 3
+            },
+            "vivo": {
+                "active": 2
+            },
+            "018": {
+                "active": 1,
+                "device": 1
+            },
+            "002": {
+                "active": 3,
+                "device": 2
+            },
+            "010": {
+                "active": 44,
+                "device": 23
+            },
+            "015": {
+                "active": 5,
+                "device": 3
+            },
+            "020": {
+                "active": 29,
+                "device": 21
+            },
+            "012": {
+                "active": 54,
+                "device": 48
+            },
+            "leshi": {
+                "active": 1
+            },
+            "004": {
+                "active": 4,
+                "device": 2
+            },
+            "001": {
+                "active": 16,
+                "device": 10
+            },
+            "anzhi": {
+                "active": 1
+            },
+            "huaweizhihuiyun": {
+                "active": 6,
+                "device": 5
+            },
+            "360baohe": {
+                "active": 1
+            }
+        }
+    },
+    {
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "active": 67,
+                "device": 33
+            }
+        },
+        "_id": 4,
+        "com_luo_CashPocket": {
+            "017": {
+                "active": 1
+            },
+            "vivo": {
+                "active": 2
+            },
+            "huaweizhihuiyun": {
+                "active": 3,
+                "device": 2
+            },
+            "meizu": {
+                "active": 1
+            },
+            "keke": {
+                "active": 6
+            },
+            "005": {
+                "active": 3,
+                "device": 3
+            },
+            "015": {
+                "active": 8,
+                "device": 5
+            },
+            "baidu": {
+                "active": 1
+            },
+            "012": {
+                "active": 27,
+                "device": 6
+            },
+            "003": {
+                "active": 10,
+                "device": 6
+            },
+            "yingyongbao": {
+                "active": 4,
+                "device": 1
+            },
+            "010": {
+                "active": 92,
+                "device": 69
+            },
+            "002": {
+                "active": 7,
+                "device": 6
+            },
+            "020": {
+                "active": 34,
+                "device": 17
+            },
+            "007": {
+                "active": 4,
+                "device": 3
+            },
+            "011": {
+                "active": 72,
+                "device": 51
+            },
+            "004": {
+                "active": 1
+            },
+            "001": {
+                "active": 23,
+                "device": 18
+            },
+            "没有获取到渠道信息": {
+                "active": 1
+            },
+            "018": {
+                "active": 1,
+                "device": 1
+            },
+            "anzhi": {
+                "active": 3
+            }
+        }
+    },
+    {
+        "com_luo_CashPocket": {
+            "chuizi": {
+                "active": 1
+            },
+            "baidu": {
+                "active": 1
+            },
+            "010": {
+                "active": 65,
+                "device": 37
+            },
+            "keke": {
+                "active": 3
+            },
+            "003": {
+                "active": 4,
+                "device": 1
+            },
+            "yingyongbao": {
+                "active": 3
+            },
+            "007": {
+                "active": 4,
+                "device": 4
+            },
+            "004": {
+                "active": 4,
+                "device": 4
+            },
+            "没有获取到渠道信息": {
+                "active": 1
+            },
+            "360baohe": {
+                "active": 1
+            },
+            "099": {
+                "active": 1,
+                "device": 1
+            },
+            "011": {
+                "active": 61,
+                "device": 38
+            },
+            "015": {
+                "active": 8,
+                "device": 5
+            },
+            "vivo": {
+                "active": 1
+            },
+            "005": {
+                "active": 3,
+                "device": 3
+            },
+            "002": {
+                "active": 3,
+                "device": 1
+            },
+            "020": {
+                "active": 14,
+                "device": 5
+            },
+            "012": {
+                "active": 25,
+                "device": 13
+            },
+            "Lin": {
+                "active": 1
+            },
+            "001": {
+                "active": 18,
+                "device": 14
+            },
+            "huaweizhihuiyun": {
+                "active": 4,
+                "device": 2
+            },
+            "anzhi": {
+                "active": 3,
+                "device": 1
+            }
+        },
+        "_id": 3,
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "active": 67,
+                "device": 39
+            }
+        }
+    },
+    {
+        "com_ignorantstar_huohuodai": {
+            "AppStore": {
+                "active": 12,
+                "device": 1
+            }
+        },
+        "_id": 2,
+        "com_luo_CashPocket": {
+            "wandoujia": {
+                "active": 1
+            },
+            "012": {
+                "active": 8,
+                "device": 3
+            },
+            "010": {
+                "active": 11,
+                "device": 8
+            },
+            "002": {
+                "active": 1
+            },
+            "keke": {
+                "active": 1
+            },
+            "yingyongbao": {
+                "active": 1
+            },
+            "005": {
+                "active": 1,
+                "device": 1
+            },
+            "015": {
+                "active": 3
+            },
+            "020": {
+                "active": 3,
+                "device": 1
+            },
+            "011": {
+                "active": 15,
+                "device": 7
+            },
+            "004": {
+                "active": 1,
+                "device": 1
+            },
+            "001": {
+                "active": 5,
+                "device": 3
+            },
+            "没有获取到渠道信息": {
+                "active": 1
+            },
+            "huaweizhihuiyun": {
+                "active": 2
+            }
+        }
+    }
+]
